@@ -7,3 +7,6 @@
 [submodule "project-superteamNG"]
 	path = project-superteamNG
 	url = https://github.com/francis-codex/project-superteamNG
+[submodule "Q1_25_Prereqs_Typescript"]
+	path = Q1_25_Prereqs_Typescript
+	url = https://github.com/francis-codex/Q1_25_Prereqs_Typescript
