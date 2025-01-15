@@ -7,3 +7,6 @@
 [submodule "solana-starter-1"]
 	path = solana-starter-1
 	url = https://github.com/francis-codex/solana-starter-1
+[submodule "project-superteamNG"]
+	path = project-superteamNG
+	url = https://github.com/francis-codex/project-superteamNG
