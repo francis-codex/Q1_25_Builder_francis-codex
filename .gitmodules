@@ -1,0 +1,9 @@
+[submodule "Q1_25_Prereqs_Typescript"]
+	path = Q1_25_Prereqs_Typescript
+	url = https://github.com/francis-codex/Q1_25_Prereqs_Typescript
+[submodule "Q1_25_Prereqs_Rust"]
+	path = Q1_25_Prereqs_Rust
+	url = https://github.com/francis-codex/Q1_25_Prereqs_Rust
+[submodule "solana-starter-1"]
+	path = solana-starter-1
+	url = https://github.com/francis-codex/solana-starter-1
