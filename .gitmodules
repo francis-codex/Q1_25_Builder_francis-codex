@@ -10,3 +10,6 @@
 [submodule "Q1_25_Prereqs_Typescript"]
 	path = Q1_25_Prereqs_Typescript
 	url = https://github.com/francis-codex/Q1_25_Prereqs_Typescript
+[submodule "Enrichment:chainstream-raydium-swaps"]
+	path = Enrichment:chainstream-raydium-swaps
+	url = https://github.com/francis-codex/chainstream-raydium-swaps
