@@ -13,3 +13,6 @@
 [submodule "Enrichment:chainstream-raydium-swaps"]
 	path = Enrichment:chainstream-raydium-swaps
 	url = https://github.com/francis-codex/chainstream-raydium-swaps
+[submodule "statefi-protocol-capstone"]
+	path = statefi-protocol-capstone
+	url = https://github.com/francis-codex/statefi-protocol
